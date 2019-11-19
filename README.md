@@ -1,1 +1,2 @@
 # WhyTho
+Just for Fun!
